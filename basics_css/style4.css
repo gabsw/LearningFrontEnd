@@ -1,0 +1,46 @@
+/* All p elements are red */
+p {
+  color: red;
+}
+
+/* All div elements are blue */
+div {
+  color: blue;
+}
+
+/* The element with the class "first" is bolded */
+.first {
+  font-weight: bold;
+}
+
+/* All the elements with the class "done" are strike through */
+.done {
+  text-decoration: line-through;
+}
+
+#polite {
+  font-family: cursive;
+}
+
+#rude {
+  font-family: monospace;
+  text-transform: uppercase;
+}
+
+
+p {
+  text-transform: uppercase;
+  padding: 5px;
+}
+
+#first {
+  background-color: goldenrod;
+}
+
+#second {
+  background-color: silver;
+}
+
+#third {
+  background-color: #CD7F32;
+}
